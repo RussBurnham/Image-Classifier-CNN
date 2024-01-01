@@ -1,0 +1,5 @@
+This is a cat and dog image classifier using Python, Tensorflow, and Google Colab with a 74% success rate after 15 epochs of training. 
+It uses Convolutional Neural Networks with several different layers for Machine Learning.
+
+Full instructions for the project can be found at:
+  https://www.freecodecamp.org/learn/machine-learning-with-python/machine-learning-with-python-projects/cat-and-dog-image-classifier
